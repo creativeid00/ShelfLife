@@ -1,0 +1,3 @@
+argparse
+PyPDF2
+textract
